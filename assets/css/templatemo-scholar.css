@@ -315,6 +315,7 @@ Header Style
 .header-area .main-nav {
   background: transparent;
   display: flex;
+  justift-content: center;
 }
 
 .header-area .main-nav .logo {
