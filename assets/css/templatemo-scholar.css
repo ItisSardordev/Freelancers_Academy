@@ -314,8 +314,8 @@ Header Style
 
 .header-area .main-nav {
   background: transparent;
-  display: flex
-  align-items: center
+  display: flex;
+  align-items: center;
 }
 
 .header-area .main-nav .logo {
